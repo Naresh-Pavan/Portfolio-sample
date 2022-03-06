@@ -1,0 +1,22 @@
+.navbar-brand{
+    font-weight: 900;
+}
+.name{
+    font-weight: 900;
+    font-size:30px;
+    color:blueviolet;
+}
+.col-3 i{
+    font-size:50px;
+    margin-bottom:15px;
+}
+.con{
+padding-left:200px;
+padding-right:200px;
+font-size: 20px;
+margin-top:50px;
+}
+.foot{
+    font-weight: 900;
+    font-size:30px;
+}
